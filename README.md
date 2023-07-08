@@ -5,4 +5,6 @@ O teste foi escrito utilizando .NET 7, na linguagem C#. As questões estão sepa
 ### Execução
 Para executar os casos de teste, é necessário possuir .NET 7 e executar o seguinte comando na raiz do projeto:
 
-`dotnet test`
+```bash
+$ dotnet test
+```
