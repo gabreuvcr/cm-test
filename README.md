@@ -1,4 +1,4 @@
-# Teste técnico - CM Tecnologia
+# Teste técnico - Nuria
 
 O teste foi escrito utilizando .NET 7, na linguagem C#. As questões estão separadas por arquivos: `Questions/Question1.cs` e `Questions/Questions2.cs`. Para cada questão, há um arquivo de teste correspondente no projeto `QuestionsTest`
 
